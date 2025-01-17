@@ -1,0 +1,62 @@
+name: paracels
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  calendar_date_picker2: ^1.1.8
+  contentsize_tabbarview: ^0.0.2
+  cupertino_icons: ^1.0.8
+  fl_chart: ^0.70.1
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_svg: ^2.0.16
+  freezed_annotation: ^2.4.4
+  hexcolor: ^3.0.1
+  intl: ^0.20.1
+  responsive_framework: ^1.5.1
+  riverpod_annotation: ^2.6.1
+
+dev_dependencies:
+  build_runner: ^2.4.14
+  custom_lint: ^0.7.1
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.5.8
+  json_serializable: ^6.7.1
+  riverpod_generator: ^2.6.4
+  riverpod_lint: ^2.6.4
+  very_good_analysis: ^7.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/para_icon.svg
+    - assets/images/avatar.png
+  fonts:
+    - family: NunitoSans
+      fonts:
+        - asset: assets/fonts/NunitoSans_7pt-Regular.ttf
+          weight: 300
+          style: normal
+        - asset: assets/fonts/NunitoSans_7pt-SemiBold.ttf
+          weight: 500
+          style: normal
+        - asset: assets/fonts/NunitoSans_7pt-Bold.ttf
+          weight: 700
+          style: normal
+    - family: NunitoSansCondensed
+      fonts:
+        - asset: assets/fonts/NunitoSans_7pt_Condensed-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/NunitoSans_7pt_Condensed-SemiBold.ttf
+          weight: 500
+        - asset: assets/fonts/NunitoSans_7pt_Condensed-Bold.ttf
+          weight: 700
