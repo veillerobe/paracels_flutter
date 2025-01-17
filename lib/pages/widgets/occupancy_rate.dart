@@ -30,7 +30,7 @@ class _OccupancyRateState extends State<OccupancyRate> with SingleTickerProvider
   Widget build(BuildContext context) {
     return ParaCard(
       child: SizedBox(
-        height: 390, // TODO(JVE) widget quick fix to avoid height change when changing tab
+        height: 390, // TODO(JVE): widget quick fix to avoid height change when changing tab
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           spacing: ParaSizes.spacing8,

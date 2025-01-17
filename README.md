@@ -19,5 +19,6 @@ Parcels Dashboard is a healthcare management application that provides a compreh
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/parcels-dashboard.git

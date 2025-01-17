@@ -15,7 +15,7 @@ _$RoomImpl _$$RoomImplFromJson(Map<String, dynamic> json) => _$RoomImpl(
 Map<String, dynamic> _$$RoomImplToJson(_$RoomImpl instance) =>
     <String, dynamic>{
       'number': instance.number,
-      'state': _$RoomStateEnumMap[instance.state]!,
+      'state': _$RoomStateEnumMap[instance.state],
     };
 
 const _$RoomStateEnumMap = {
