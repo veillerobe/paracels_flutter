@@ -1,17 +1,23 @@
-# paracels
+# Parcels Dashboard
 
-A new Flutter project.
+Parcels Dashboard is a healthcare management application that provides a comprehensive overview of an organization's performance and patient care metrics. It enables healthcare professionals to plan their days, manage patient appointments, and analyze performance data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Overview**: Key statistics such as average patient service time, wait time, new patients, and visits.
+- **Integrated Calendar**: Schedule workdays, sick leave, and vacations.
+- **Daily Timeline**: View scheduled events and tasks for the day.
+- **Appointment Management**: Organize and track patient appointments.
+- **Analytical Reports**: Analyze occupancy rates and hospital activity by department.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend**: React (or other frontend framework used)
+- **Backend**: Node.js (or other backend technology)
+- **Database**: MongoDB (or other database system)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Paracels_flutter
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/parcels-dashboard.git
