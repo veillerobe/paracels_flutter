@@ -1,24 +1,17 @@
 # Parcels Dashboard
 
-Parcels Dashboard is a healthcare management application that provides a comprehensive overview of an organization's performance and patient care metrics. It enables healthcare professionals to plan their days, manage patient appointments, and analyze performance data.
-
-## Features
-
-- **Overview**: Key statistics such as average patient service time, wait time, new patients, and visits.
-- **Integrated Calendar**: Schedule workdays, sick leave, and vacations.
-- **Daily Timeline**: View scheduled events and tasks for the day.
-- **Appointment Management**: Organize and track patient appointments.
-- **Analytical Reports**: Analyze occupancy rates and hospital activity by department.
+This project is a clone of the first dashboard page of this behance design for frontend part
+https://www.behance.net/gallery/182937177/Healthcare-Analytics-Dashboard?tracking_source=search_projects%7Chealth+dashboard+web+design&l=3
 
 ## Technology Stack
 
-- **Frontend**: React (or other frontend framework used)
-- **Backend**: Node.js (or other backend technology)
-- **Database**: MongoDB (or other database system)
+- **Frontend**: Flutter
+- **Backend**: None
+- **Database**: None
 
 ## Installation
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/parcels-dashboard.git
+   git clone https://github.com/veillerobe/paracels_flutter.git
